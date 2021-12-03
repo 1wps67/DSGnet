@@ -1,5 +1,5 @@
 # Requirement
-conda create -n deepc python==3.6.8 --file deepc.yaml
+conda create -n deepc --file deepc.yaml
 
 conda activate deepc
 
